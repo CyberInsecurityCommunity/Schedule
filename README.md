@@ -1,6 +1,6 @@
 # Schedule
 
-Schedule Can Change Frequently - but this is the "Best Effort" to the Schedule.  Check back frequently as we are adding new programs regularly. - Neal 
+"Schedule Can Change Frequently - but this is the "Best Effort" to the Schedule.  Check back frequently as we are adding new programs regularly." - **Neal** 
 
 | Day | Time | Description |
 |-----|------|---------------------|
